@@ -1,0 +1,2 @@
+# ping-player
+Spigot plugin
