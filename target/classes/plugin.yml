@@ -1,0 +1,6 @@
+name: PingPlayer
+author: Aaron
+main: dev.aaron.pingplayer.PingPlayer
+version: 1.0
+commands:
+
